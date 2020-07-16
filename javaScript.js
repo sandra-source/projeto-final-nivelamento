@@ -28,8 +28,6 @@
 // o tamanho das suas unhas é uma variável, ou seja, vc sempre vai ter 
 // uma certa quantidade de dedos, porém o tamanho das suas unhas pode mudar.
 
-// - - - - agora vou fazer mais rápido senão não vai dar tempo de acabar - - - 
-
 // O QUE SÃO COMANDOS DE DECISÃO:
 // comandos de decisão são basicamente tudo o que deve acontecer se uma condição for 
 // verdade. 
