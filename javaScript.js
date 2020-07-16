@@ -153,6 +153,6 @@
 
 // DIFERENÇAS ENTRE HTML, JAVASCRIPT E CSS:
 
-// html - linguagem de MARCAÇÃO 
+// html - linguagem de MARCAÇÃO, e onde vc pode juntar os 3
 // javascript - linguagem de PROGRAMAÇÃO, onde a magia acontece 
 // CSS - linguagem de EMBELEZAÇÃO kk pra tudo ficar mais bonitinho e apresentável 
